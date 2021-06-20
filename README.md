@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-<h3> Hi guys, I am <b><i>Yash Vora</i></b> 👋 </h3>
+<h3> Hello guys, I am <b><i>Yash Vora</i></b> 👋 </h3>
 
   - 🌱 I’m currently learning <b>Data Science with Python and R</b>.
   - 💬 Ask me about <b>Python,R,Data Science,Machine Learning & Andriod Studio</b>.
