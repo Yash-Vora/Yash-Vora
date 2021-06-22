@@ -12,29 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height=25 width=25>
 
-#### Hello guys, I am <b><i>Yash Vora</i></b>
+Hello guys, I am <b><i>Yash Vora</i></b>
 
   - 🌱 I’m currently learning <b>Data Science with Python and R</b>.
   - 💬 Ask me about <b>Python,R,Data Science,Machine Learning & Andriod Studio</b>.
   - 🤔 I’m actively looking for <b>data scientist</b> job.
   - ⚡ Fun fact is I also like to hear music & playing games.
 
+<!-- My Profile Visits -->
+<h3 align="center"><i>Profile Visits</i></h3>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Yash-Vora.Yash-Vora" alt="Yash-Vora">
+</p>
+
 <!-- My GitHub Stats -->
 <h3 align="center"><i>GitHub Stats</i></h3>
 <p align="center">
-  <!--  My github repo stats  -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Vora&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Yash-Vora">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Vora&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Yash-Vora"> 
 </p>
 
 <!-- My Coding Stats -->
 <h3 align="center"><i>Coding Stats</i></h3>
 <p align="center">
-  <!--  My coding stats  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Vora&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" alt="Yash-Vora">
 </p>
-  
+
 <!--  Reach me using following platform  -->
 <h3 align="center"><i>Reach Me At</i></h3>
 <p align= "center">
