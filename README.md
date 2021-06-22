@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hello guys, I am <b><i>Yash Vora</i></b>
 
   - 🌱 I’m currently learning <b>Data Science with Python and R</b>.
-  - 💬 Ask me about <b>Python,R,Data Science,Machine Learning & Andriod Studio</b>.
+  - 💬 Ask me about <b>Python,R,Data Science,Machine Learning & Andriod Development</b>.
   - 🤔 I’m actively looking for <b>data scientist</b> job.
   - ⚡ Fun fact is I also like to hear music & playing games.
 
