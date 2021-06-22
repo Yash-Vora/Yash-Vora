@@ -44,10 +44,13 @@ Hello guys, I am <b><i>Yash Vora</i></b>
 <p align= "center">
   <!--  Linkedin Link  -->
   <a href="https://www.linkedin.com/in/yashvora007/" target="_blank"><img src="/Images/linkedin_icon.png" height=30 width=30></a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <!--  Twitter Link  -->
   <a href="https://twitter.com/YashVor68839020" target="_blank"><img src="/Images/twitter_icon.png" height=30 width=30></a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <!--  Facebook Link  -->
   <a href="https://www.facebook.com/yash.vora.988/" target="_blank"><img src="/Images/facebook_icon.png" height=30 width=30></a>
+  &nbsp;&nbsp;
+  <!--  Google Link  -->
+  <a href="mailto:yashcvora@gmail.com" target="_blank"><img src="/Images/google_icon.png" height=30 width=30></a>
 </p>
