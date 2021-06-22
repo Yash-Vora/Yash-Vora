@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
+## Hi there <span class="wave">👋</span>
 
-<h3> Hello guys, I am <b><i>Yash Vora</i></b> 👋 </h3>
+Hello guys, I am <b><i>Yash Vora</i></b>
 
   - 🌱 I’m currently learning <b>Data Science with Python and R</b>.
   - 💬 Ask me about <b>Python,R,Data Science,Machine Learning & Andriod Studio</b>.
@@ -22,13 +22,19 @@ Here are some ideas to get you started:
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/yashvora007/">Yash Vora</a>
   - ⚡ Fun fact is I also like to hear music & playing games.
 
+<h3 align="center"><i>GitHub Stats</i></h3>
 <p align="center">
   <!--  My github repo stats  -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Vora&show_icons=true" alt="Yash-Vora">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Vora&show_icons=true&bg_color=#ff000000&text_color=#007500&border_color=#007500&icon_color=#000080&title_color=#000080" alt="Yash-Vora">
+</p>
+
+<h3 align="center"><i>Coding Stats</i></h3>
+<p align="center">
+  <!--  My coding stats  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Vora&layout=compact&langs_count=10&bg_color=#ff000000&text_color=#007500&border_color=#007500&icon_color=#000080&title_color=#000080" alt="Yash-Vora">
 </p>
   
-<h3 align="center">Contact Me At</h3>
-
+<h3 align="center"><i>Contact Me At</i></h3>
 <p align= "center">
   <!--  Link for free svg icons-https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/  -->
   <!--  Linkedin Link  -->
