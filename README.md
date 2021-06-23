@@ -21,10 +21,50 @@ Hello guys, I am <b><i>Yash Vora</i></b>
   - 🤔 I’m actively looking for <b>data scientist</b> job.
   - ⚡ Fun fact is I also like to hear music & playing games.
 
-<!-- My Profile Visits -->
-<h3 align="center"><i>Profile Visits</i></h3>
+<!-- More details about me -->
+<details>
+  <summary>More stuff about me</summary>
+    I have an experience in android development as a full stack developer.I have made many projects like whatsapp clone, instagram clone, food ordering app etc. If you want to       check my work then just visit my repository.<br><br>
+    Recently I am learning data science & machine learning with R & Python.I have made many projects data science & machine learning. If you want to check my work then just         visit my repository.<br><br>
+    If you want to know more about me then just visit my linkedin profile.
+</details>
+
+<!-- Tools & Technologies -->
+<h3 align="center"><i>Tools & Technologies</i></h3>
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Yash-Vora.Yash-Vora" alt="Yash-Vora">
+  <!-- Link for badges - https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-  -->
+  <!--  C Badge  -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
+  <!--  C++ Badge  -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <!--  Java Badge  -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <!--  Android Studio Badge  -->
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <!--  Firebase Badge  -->
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <!--  PHP Badge  -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+  <!-- HTML Badge   -->
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
+  <!--  CSS Badge  -->
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
+  <!--  MYSQL Badge  -->
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <!--  SQLite Badge  -->
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
+  <!--  Python Badge  -->
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
+  <!--  Scikit Learn Badge  -->
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
+  <!--  Anaconda Badge  -->
+  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+  <!--  Jupyter Badge  -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <!--  PyCharm Badge  -->
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  <!--  R Badge  -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
 </p>
 
 <!-- My GitHub Stats -->
