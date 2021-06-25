@@ -42,7 +42,7 @@ Hello guys, I'm <b><i>Yash Vora</i></b>
   <!--  Java Badge  -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <!--  Android Studio Badge  -->
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-2800ff?style=for-the-badge&logo=android-studio&logoColor=white">
   <!--  Firebase Badge  -->
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <!--  PHP Badge  -->
