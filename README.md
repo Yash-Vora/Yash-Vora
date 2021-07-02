@@ -84,7 +84,7 @@ Hello guys, I'm <b><i>Yash Vora</i></b>
 <!-- My Coding Stats -->
 <h3 align="center"><i>Coding Stats</i></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Vora&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" alt="Yash-Vora">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Vora&langs_count=10&theme=chartreuse-dark&hide_border=true" alt="Yash-Vora">
 </p>
 
 <!--  Reach me using following platform  -->
