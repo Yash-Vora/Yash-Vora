@@ -26,9 +26,9 @@ Hello guys, I'm <b><i>Yash Vora</i></b>
 <!-- More details about me -->
 <details>
   <summary>More stuff about me</summary>
-    I have an experience in android development as a full stack developer.I have made many projects like whatsapp clone, instagram clone, food ordering app etc. If you want to       check my work then just visit my repository.<br><br>
-    Recently I am learning data science & machine learning with R & Python.I have made many projects data science & machine learning. If you want to check my work then just         visit my repository.<br><br>
-    If you want to know more about me then just visit my linkedin profile.
+    - I have an experience in android development as a full stack developer.I have made many projects like whatsapp clone, instagram clone, food ordering app etc. If you want to       check my work then just visit my repository.<br><br>
+    - Hands on experience in data science & machine learning with R & Python.I have made many projects data science & machine learning. If you want to check my work then just         visit my repository.<br><br>
+    - If you want to know more about me then just visit my linkedin profile.
 </details>
 
 <!-- Tools & Technologies -->
